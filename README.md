@@ -59,9 +59,9 @@ Diagrama completo em [`docs/`](docs/).
 | `notebooks/` | **entregável 3**: os cinco notebooks, ingestão a gráficos |
 | `glue/` | o código que roda na AWS, exatamente como está lá |
 | `sql/` | DDL de catalogação e as consultas do Athena por pergunta |
-| `powerbi/` | o `.pbix` do dashboard executivo |
-| `docs/` | respostas das 7 perguntas, modelo, medidas, validações e decisões |
-| `results/` | CSV de cada consulta do Athena e os 7 gráficos em `graficos/` |
+| `powerbi/` | o `.pbix` do dashboard executivo e o PDF das 15 telas |
+| `docs/` | **entregável 2**: o diagrama da arquitetura, mais as respostas das 7 perguntas, modelo, medidas, validações e decisões |
+| `results/` | CSV de cada consulta do Athena e os 16 gráficos em `graficos/` |
 | `data/amostras/` | amostra pequena para inspeção (a base vem do Kaggle) |
 | `dev/` | testes e utilitários de desenvolvimento, não fazem parte do pipeline |
 
