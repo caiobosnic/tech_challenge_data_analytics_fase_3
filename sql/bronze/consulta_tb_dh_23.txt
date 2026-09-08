@@ -2,7 +2,7 @@
 --1. Quantidade de registros--
 SELECT COUNT (*) AS qtd_registros_23
 from tb_dh_23;
--- 5923 Respostas da pesquisa--
+-- 5293 Respostas da pesquisa--
 
 --2. Quantidade de Colunas (não perguntas)--
 select count(*) as qtd_colunas_23
